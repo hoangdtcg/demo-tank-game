@@ -1,0 +1,8 @@
+If / else chuyển sang switch case được nếu có so sánh bằng
+Default: Mặc định <=> else (Các trường hợp còn lại)
+
+- Cấu trúc điều kiện
+- Cấu trúc lặp
+- Cấu trúc nhảy: break
+    - Nhảy ra khỏi khối lệnh (scope) {}
+    - Không dùng var dưới mọi trường hợp --
